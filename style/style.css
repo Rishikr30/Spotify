@@ -1,8 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
-:root{
-    --a:0;
+:root {
+    --a: 0;
 }
+
 * {
     margin: 0;
     padding: 0;
@@ -131,11 +132,12 @@ body {
     object-fit: contain;
 }
 
-.card:hover{
+.card:hover {
     background-color: rgb(127, 124, 124);
     cursor: pointer;
-    --a:1;
+    --a: 1;
 }
+
 .play {
     width: 24px;
     height: 24px;
@@ -146,8 +148,8 @@ body {
     align-items: center;
     justify-content: center;
     position: absolute;
-    bottom: 88px;
-    top: 168px;
+    bottom: 108px;
+    /* top: 168px; */
     right: 17px;
     opacity: var(--a);
     transition: all 1s ease-out;
@@ -198,6 +200,9 @@ body {
     width: 90%;
     padding: 12px;
     width: 70vw;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
 }
 
 .songbuttons {
@@ -268,7 +273,7 @@ body {
     background-color: black;
     border-radius: 10px;
     position: absolute;
-    bottom: 0;
+    bottom: 8px;
     margin: 6px;
     cursor: pointer;
 }
@@ -321,14 +326,14 @@ body {
     cursor: pointer;
 }
 
-.range input{
+.range input {
     cursor: pointer;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1200px) {
     .left {
         position: absolute;
-        left: -120%;
+        left: -130%;
         transition: all .3s;
         z-index: 1;
         width: 373px;
@@ -362,6 +367,9 @@ body {
 
     .playbar {
         width: calc(100vw - 110px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     .seekbar {
@@ -392,6 +400,43 @@ body {
     .abovebar {
         flex-direction: column;
         gap: 23px;
+        align-items: center;
+    }
+
+    .cardContainer {
+        max-height: unset;
+        overflow: unset;
+        margin-bottom: 30vh;
+    }
+}
+
+@media (max-width: 500px) {
+    .card {
+        width: 100%;
+    }
+
+    .header>* {
+        padding: 2px;
+    }
+
+    .buttons>* {
+        margin: 0 6px;
+    }
+
+    .cardContainer {
+        max-height: auto;
+        overflow-y: unset;
+
+    }
+
+    .spotifyPlaylists h1 {
+        padding: 4px;
+    }
+
+    .playbar {
+        right: 25px;
+        display: flex;
+        justify-content: center;
         align-items: center;
     }
 }

@@ -11,7 +11,7 @@ function secondsToMinutesSeconds(seconds) {
         return "00:00";
     }
     const minutes = Math.floor(seconds / 60);
-    const sec = Math.floor(seconds % 60);
+    const sec = Math.floor(seconds / 60);
 
     const formattedMins = String(minutes).padStart(2, '0');
     const formattedSecs = String(sec).padStart(2, '0');
@@ -23,7 +23,7 @@ function secondsToMinutesSeconds(seconds) {
 async function getSongs(folder) {
 
     currFolder = folder;
-    let a = await fetch(`http://127.0.0.1:5500/${folder}/`);
+    let a = await fetch(`/${folder}/`);
     let response = await a.text();
     let div = document.createElement("div");
     div.innerHTML = response;
@@ -43,7 +43,7 @@ async function getSongs(folder) {
         songUL.innerHTML = songUL.innerHTML + `<li><img class="invert" src="img/music.svg" alt="music">
                             <div class="info">
                                 <div>${song.replaceAll("%20", " ")}</div>
-                                <div>Rishi</div>
+                                <div></div>
                             </div>
                             <div class="playnow">
                                 <span>Play Now</span>
@@ -78,7 +78,7 @@ const playMusic = (track, pause = false) => {
 }
 
 async function displayAlbums() {
-    let a = await fetch(`http://127.0.0.1:5500/songs/`);
+    let a = await fetch(`/songs/`);
     let response = await a.text();
     let div = document.createElement("div");
     div.innerHTML = response;
@@ -87,12 +87,12 @@ async function displayAlbums() {
 
     for (let index = 0; index < array.length; index++) {
         const e = array[index];
-        
+
         if (e.href.includes("/songs/")) {
             let folder = e.href.split("/").slice(-1)[0];
 
             //get metadata of the folder
-            let a = await fetch(`http://127.0.0.1:5500/songs/${folder}/info.json`);
+            let a = await fetch(`/songs/${folder}/info.json`);
             let response = await a.json();
             let cardContainer = document.querySelector(".cardContainer")
             console.log(response);
@@ -109,7 +109,8 @@ async function displayAlbums() {
     }
 
 
-     //load the playlist whenever card is clicked
+    // load the playlist whenever card is clicked
+
     Array.from(document.getElementsByClassName("card")).forEach(e => {
         e.addEventListener("click", async item => {
             console.log(e)
@@ -193,27 +194,42 @@ async function main() {
         }
     })
 
+    //add event listener to autoplay next song
+    currentSong.addEventListener("ended", () => {
+        let index = songs.indexOf(currentSong.src.split("/").slice(-1)[0]);
+        if ((index + 1) < songs.length) {
+            playMusic(songs[index + 1]);
+        } else {
+            // Optional: loop back to first song
+            playMusic(songs[0]);
+        }
+    });
+
+
     //Add an event to volume
     document.querySelector(".range").getElementsByTagName("input")[0].addEventListener("change", (e) => {
-        currentSong.volume = parseInt(e.target.value) / 100
+        currentSong.volume = parseInt(e.target.value) / 100;
+        if(currentSong.volume>0){
+            document.querySelector(".volume>img").src = document.querySelector(".volume>img").src.replace("mute.svg", "volume.svg");
+        }
     })
 
 
     //add event listener to mute the track
-    document.querySelector(".volume>img").addEventListener("click", e=>{
+    document.querySelector(".volume>img").addEventListener("click", e => {
         console.log(e.target);
-        if(e.target.src.includes("img/volume.svg")){
-            e.target.src = e.target.src.replace("img/volume.svg","img/mute.svg");
+        if (e.target.src.includes("img/volume.svg")) {
+            e.target.src = e.target.src.replace("img/volume.svg", "img/mute.svg");
             currentSong.volume = 0;
-             document.querySelector(".range").getElementsByTagName("input")[0].value = 0;
-        }else{
+            document.querySelector(".range").getElementsByTagName("input")[0].value = 0;
+        } else {
             e.target.src = e.target.src.replace("img/mute.svg", "img/volume.svg")
             currentSong.volume = .10;
-             document.querySelector(".range").getElementsByTagName("input")[0].value = 10;
+            document.querySelector(".range").getElementsByTagName("input")[0].value = 10;
         }
-        
+
     })
-    
+
 
 }
 main()
