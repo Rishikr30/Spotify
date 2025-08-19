@@ -1,0 +1,137 @@
+[
+    {
+        "folder": "arijit",
+        "title": "Arijit Singh",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/cover.jpg",
+        "songs": [
+            {
+                "title": "Sample Song 1",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755544851/gulab_jaisan_khilal_vqghti.mp3"
+            },
+            {
+                "title": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "atif",
+        "title": "Atif Aslam",
+        "description": "Melodic songs by Atif Aslam.",
+        "cover": "https://picsum.photos/200/200?random=2",
+        "songs": [
+            {
+                "title": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "kishore",
+        "title": "Kishore Kumar",
+        "description": "Evergreen classics by Kishore Da.",
+        "cover": "https://picsum.photos/200/200?random=3",
+        "songs": [
+            {
+                "title": "Sample Song 4",
+                "artist": "Kishore Kumar",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "lata",
+        "title": "Lata Mangeshkar",
+        "description": "Golden voice of India.",
+        "cover": "https://picsum.photos/200/200?random=4",
+        "songs": [
+            {
+                "title": "Sample Song 5",
+                "artist": "Lata Mangeshkar",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "rahman",
+        "title": "A. R. Rahman",
+        "description": "Magical compositions by Rahman.",
+        "cover": "https://picsum.photos/200/200?random=5",
+        "songs": [
+            {
+                "title": "Sample Song 6",
+                "artist": "A. R. Rahman",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "shreya",
+        "title": "Shreya Ghoshal",
+        "description": "Melodious songs by Shreya.",
+        "cover": "https://picsum.photos/200/200?random=6",
+        "songs": [
+            {
+                "title": "Sample Song 7",
+                "artist": "Shreya Ghoshal",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "sonu",
+        "title": "Sonu Nigam",
+        "description": "Popular songs by Sonu.",
+        "cover": "https://picsum.photos/200/200?random=7",
+        "songs": [
+            {
+                "title": "Sample Song 8",
+                "artist": "Sonu Nigam",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "neha",
+        "title": "Neha Kakkar",
+        "description": "Party hits by Neha.",
+        "cover": "https://picsum.photos/200/200?random=8",
+        "songs": [
+            {
+                "title": "Sample Song 9",
+                "artist": "Neha Kakkar",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "jubin",
+        "title": "Jubin Nautiyal",
+        "description": "Romantic hits by Jubin.",
+        "cover": "https://picsum.photos/200/200?random=9",
+        "songs": [
+            {
+                "title": "Sample Song 10",
+                "artist": "Jubin Nautiyal",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "darshan",
+        "title": "Darshan Raval",
+        "description": "Trending love songs.",
+        "cover": "https://picsum.photos/200/200?random=10",
+        "songs": [
+            {
+                "title": "Sample Song 11",
+                "artist": "Darshan Raval",
+                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+            }
+        ]
+    }
+]
