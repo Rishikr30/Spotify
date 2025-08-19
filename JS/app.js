@@ -22,12 +22,10 @@ async function loadAlbums() {
         card.classList.add("card");
         card.dataset.album = JSON.stringify(album);
 
-        card.innerHTML = `
-      <div class="play"><img src="img/play-button-svgrepo-com.svg" alt="play"></div>
+        card.innerHTML = `<div class="play"><img src="img/play-button-svgrepo-com.svg" alt="play"></div>
       <img src="${album.cover}" alt="${album.title}">
       <h2>${album.title}</h2>
-      <p>${album.description}</p>
-    `;
+      <p>${album.description}</p>`;
 
 
         card.addEventListener("click", () => {

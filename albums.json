@@ -1,19 +1,248 @@
 [
     {
         "folder": "arijit",
-        "title": "Arijit Singh",
+        "title": "Bollywood & Chill",
         "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/cover.jpg",
+        "cover": "img/bollywood.jpg",
         "songs": [
             {
-                "title": "Sample Song 1",
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Top Bojpuri Songs",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/bhojpuri.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Chill mood anywhere",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/chill.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Your Daily Mix",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/daily.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Enjoy Dance songs",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/dance.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Devotional Music",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/devotional.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Focus mood",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/focus.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Happy Vibes",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/happy.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Hot Hits 2025",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/hot.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Lofi Music",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/lofi.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Old is Gold",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/old.jpg",
+        "songs": [
+
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Mind Relaxing",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/relax.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Sweat Dreams",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/sleep.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Trending in India",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/trend.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Yo Yo Honey Singh",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/yo.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Arijit Singh",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/arijit.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Arijit Singh",
+        "description": "Top romantic hits by Arijit Singh.",
+        "cover": "img/arijit.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 1",
                 "artist": "Arijit Singh",
                 "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755544851/gulab_jaisan_khilal_vqghti.mp3"
             },
             {
-                "title": "Sample Song 2",
+                "name": "Sample Song 2",
                 "artist": "Arijit Singh",
-                "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+                "url": ""
             }
         ]
     },
@@ -21,10 +250,10 @@
         "folder": "atif",
         "title": "Atif Aslam",
         "description": "Melodic songs by Atif Aslam.",
-        "cover": "https://picsum.photos/200/200?random=2",
+        "cover": "img/atif.jpg",
         "songs": [
             {
-                "title": "Sample Song 3",
+                "name": "Sample Song 3",
                 "artist": "Atif Aslam",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
             }
@@ -34,10 +263,10 @@
         "folder": "kishore",
         "title": "Kishore Kumar",
         "description": "Evergreen classics by Kishore Da.",
-        "cover": "https://picsum.photos/200/200?random=3",
+        "cover": "img/kishore.jpg",
         "songs": [
             {
-                "title": "Sample Song 4",
+                "name": "Sample Song 4",
                 "artist": "Kishore Kumar",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
             }
@@ -47,10 +276,10 @@
         "folder": "lata",
         "title": "Lata Mangeshkar",
         "description": "Golden voice of India.",
-        "cover": "https://picsum.photos/200/200?random=4",
+        "cover": "img/lata.jpg",
         "songs": [
             {
-                "title": "Sample Song 5",
+                "name": "Sample Song 5",
                 "artist": "Lata Mangeshkar",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
             }
@@ -60,10 +289,10 @@
         "folder": "rahman",
         "title": "A. R. Rahman",
         "description": "Magical compositions by Rahman.",
-        "cover": "https://picsum.photos/200/200?random=5",
+        "cover": "img/ar.jpg",
         "songs": [
             {
-                "title": "Sample Song 6",
+                "name": "Sample Song 6",
                 "artist": "A. R. Rahman",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3"
             }
@@ -73,10 +302,10 @@
         "folder": "shreya",
         "title": "Shreya Ghoshal",
         "description": "Melodious songs by Shreya.",
-        "cover": "https://picsum.photos/200/200?random=6",
+        "cover": "img/shreya.jpg",
         "songs": [
             {
-                "title": "Sample Song 7",
+                "name": "Sample Song 7",
                 "artist": "Shreya Ghoshal",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3"
             }
@@ -86,10 +315,10 @@
         "folder": "sonu",
         "title": "Sonu Nigam",
         "description": "Popular songs by Sonu.",
-        "cover": "https://picsum.photos/200/200?random=7",
+        "cover": "img/sonu.jpg",
         "songs": [
             {
-                "title": "Sample Song 8",
+                "name": "Sample Song 8",
                 "artist": "Sonu Nigam",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3"
             }
@@ -99,10 +328,10 @@
         "folder": "neha",
         "title": "Neha Kakkar",
         "description": "Party hits by Neha.",
-        "cover": "https://picsum.photos/200/200?random=8",
+        "cover": "img/neha.jpg",
         "songs": [
             {
-                "title": "Sample Song 9",
+                "name": "Sample Song 9",
                 "artist": "Neha Kakkar",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3"
             }
@@ -112,10 +341,10 @@
         "folder": "jubin",
         "title": "Jubin Nautiyal",
         "description": "Romantic hits by Jubin.",
-        "cover": "https://picsum.photos/200/200?random=9",
+        "cover": "img/jubin.jpg",
         "songs": [
             {
-                "title": "Sample Song 10",
+                "name": "Sample Song 10",
                 "artist": "Jubin Nautiyal",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3"
             }
@@ -125,10 +354,10 @@
         "folder": "darshan",
         "title": "Darshan Raval",
         "description": "Trending love songs.",
-        "cover": "https://picsum.photos/200/200?random=10",
+        "cover": "img/darshan.jpg",
         "songs": [
             {
-                "title": "Sample Song 11",
+                "name": "Sample Song 11",
                 "artist": "Darshan Raval",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
             }
