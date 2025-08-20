@@ -1,190 +1,192 @@
 [
     {
         "folder": "arijit",
-        "title": "Bollywood & Chill",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/bollywood.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Top Bojpuri Songs",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/bhojpuri.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Chill mood anywhere",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/chill.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
         "title": "Your Daily Mix",
-        "description": "Top romantic hits by Arijit Singh.",
+        "description": "Listen music with your experience.",
         "cover": "img/daily.jpg",
         "songs": [
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Enjoy Dance songs",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/dance.jpg",
-        "songs": [
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
             }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Devotional Music",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/devotional.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Focus mood",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/focus.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Happy Vibes",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/happy.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
         ]
     },
     {
         "folder": "arijit",
         "title": "Hot Hits 2025",
-        "description": "Top romantic hits by Arijit Singh.",
+        "description": "Top Hot & Hits songs in 2025",
         "cover": "img/hot.jpg",
         "songs": [
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Lofi Music",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/lofi.jpg",
-        "songs": [
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Tum Se",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676670/Tum_Se_Teri_Baaton_Mein_Aisa_Uljha_Jiya_320_Kbps_rklp2g.mp3"
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
             }
-
         ]
     },
     {
         "folder": "arijit",
-        "title": "Old is Gold",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/old.jpg",
+        "title": "Dance music",
+        "description": "Party-ready, Bollywood dance tracks.",
+        "cover": "img/dance.jpg",
         "songs": [
-
+            {
+                "name": "Teri batoon mein uljha jiya",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676673/Title_Track_Teri_Baaton_Mein_Aisa_Uljha_Jiya_320_Kbps_jjm3jm.mp3"
+            },
+            {
+                "name": "Mere Mahaboob",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676672/Mere_Mehboob_Vicky_Vidya_Ka_Woh_Wala_Video_320_Kbps_jrlbr3.mp3"
+            },
+            {
+                "name": "Aayi Nai",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676672/Aayi_Nai_Stree_2_320_Kbps_jejsjg.mp3"
+            },
+            {
+                "name": "Akhiyaan Gulab",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676670/Akhiyaan_Gulaab_Teri_Baaton_Mein_Aisa_Uljha_Jiya_320_Kbps_fdrxpi.mp3"
+            },
+            {
+                "name": "Laal Peeli Akhiyaan",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676669/Laal_Peeli_Akhiyaan_Teri_Baaton_Mein_Aisa_Uljha_Jiya_320_Kbps_viqhcc.mp3"
+            },
+            {
+                "name": "Bom Diggy Diggy",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676668/Bom_Diggy_Diggy_Sonu_Ke_Titu_Ki_Sweety_320_Kbps_pu3okg.mp3"
+            },
+            {
+                "name": "Akh Lad Jaave",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676667/Akh_Lad_Jaave_Loveyatri_A_Journey_Of_Love_320_Kbps_hbbu4c.mp3"
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            },
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
             }
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Mind Relaxing",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/relax.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
-        ]
-    },
-    {
-        "folder": "arijit",
-        "title": "Sweat Dreams",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/sleep.jpg",
-        "songs": [
-            {
-                "name": "Sample Song 2",
-                "artist": "Arijit Singh",
-                "url": ""
-            }
-
         ]
     },
     {
         "folder": "arijit",
         "title": "Trending in India",
-        "description": "Top romantic hits by Arijit Singh.",
+        "description": "Every track you're listening/should be listening to.",
         "cover": "img/trend.jpg",
         "songs": [
             {
@@ -197,35 +199,146 @@
                 "artist": "Arijit Singh",
                 "url": ""
             }
-
         ]
     },
     {
         "folder": "arijit",
-        "title": "Yo Yo Honey Singh",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/yo.jpg",
+        "title": "Bollywood & Chill",
+        "description": "Sit back, and chill with Bollywood's easygoing hits.",
+        "cover": "img/bollywood.jpg",
         "songs": [
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
             }
-
         ]
     },
     {
         "folder": "arijit",
-        "title": "Arijit Singh",
-        "description": "Top romantic hits by Arijit Singh.",
-        "cover": "img/arijit.jpg",
+        "title": "Top Bojpuri Songs",
+        "description": "Enjoy bhojpuri mood with biggest bhojpuri hits.",
+        "cover": "img/bhojpuri.jpg",
+        "songs": [
+            {
+                "name": "Chulhi Me Jhok Di",
+                "artist": "Arijit Singh",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676099/Chulhi_Me_Jhok_Di_Shivani_Singh_320_Kbps_lbwnuq.mp3"
+            },
+            {
+                "name": "Heroine",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676099/Heroine_Neelkamal_Singh_320_Kbps_oyt8sg.mp3"
+            },
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Happy Vibes",
+        "description": "Bright,sunny,catchy tunes put a smile on your face.",
+        "cover": "img/happy.jpg",
         "songs": [
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
                 "url": ""
             }
-
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Lofi Music",
+        "description": "Inhale & exhale to the beats of Lofi.",
+        "cover": "img/lofi.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Old is Gold",
+        "description": "90s feeling & experience in one playlist.",
+        "cover": "img/old.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Devotional Music",
+        "description": "Spritual Devotional music picked just for you.",
+        "cover": "img/devotional.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Focus mood",
+        "description": "Completely listen to this playlist for deep focus work.",
+        "cover": "img/focus.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Mind Relaxing",
+        "description": "Mind relaxing. The essential track.",
+        "cover": "img/relax.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Sweet Dreams",
+        "description": "Have a sweet dream listen this & sleep peacefully.",
+        "cover": "img/sleep.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Udit Narayan",
+        "description": "Best of Udit narayan 90s track",
+        "cover": "img/udit.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
         ]
     },
     {
@@ -242,6 +355,127 @@
             {
                 "name": "Sample Song 2",
                 "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "atif",
+        "title": "Pawan Singh",
+        "description": "Listen to bhojpuri Power star Pawan Singh.",
+        "cover": "img/pawan.jpg",
+        "songs": [
+            {
+                "name": "Odhani Sarkat Jaye",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676106/Odhani_Sarkat_Jaye_Pawan_Singh_320_Kbps_ajnj0k.mp3"
+            },
+            {
+                "name": "Hathiyar",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676107/Hathiyar_Pawan_Singh_320_Kbps_jl7wyi.mp3"
+            },
+            {
+                "name": "Lehnga Lehak Jaayi",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676105/Lehenga_Lehak_Jaayi_Pawan_Singh_320_Kbps_ibumhx.mp3"
+            },
+            {
+                "name": "Ghaghari",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676104/Ghaghari_Pawan_Singh_320_Kbps_uie4uj.mp3"
+            },
+            {
+                "name": "Hari Hari Odhani",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676104/Hari_Hari_Odhani_Pawan_Singh_320_Kbps_va7yax.mp3"
+            },
+            {
+                "name": "Laal Ghaghra",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676104/Laal_Ghaghra_Shilpi_Raj_320_Kbps_mqwmc5.mp3"
+            },
+            {
+                "name": "Raja Ji",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676098/Raja_Ji_Pawan_Singh_320_Kbps_nbuvws.mp3"
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "atif",
+        "title": "Khesari Lal Yadav",
+        "description": "Top bhojpuri hits by Khesari lal yadav.",
+        "cover": "img/khesari.jpg",
+        "songs": [
+            {
+                "name": "Piya Ji Ke Muski",
+                "artist": "Khesari lal",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676100/Piya_Ji_Ke_Muski_Doli_Saja_Ke_Rakhna_Bhojpuri_320_Kbps_v3bsmi.mp3"
+            },
+            {
+                "name": "Aam Ke Swad",
+                "artist": "Khesari Lal",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676107/Aam_Ke_Swad_Khesari_Lal_Yadav_320_Kbps_ukfjjk.mp3"
+            },
+            {
+                "name": "Palang Sagwan Ke",
+                "artist": "Atif Aslam",
+                "url": "https://res.cloudinary.com/dnk4lsdcl/video/upload/v1755676099/Palang_Sagwan_Ke_Doli_Saja_Ke_Rakhna_Bhojpuri_2022_320_Kbps_qa3igq.mp3"
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
+                "url": ""
+            },
+            {
+                "name": "Sample Song 3",
+                "artist": "Atif Aslam",
                 "url": ""
             }
         ]
@@ -360,6 +594,45 @@
                 "name": "Sample Song 11",
                 "artist": "Darshan Raval",
                 "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "B Praak",
+        "description": "Fromromantic to spritual, this is B Praak.",
+        "cover": "img/bpraak.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Badshah",
+        "description": "Best of badshah rap.",
+        "cover": "img/badshah.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "folder": "arijit",
+        "title": "Yo Yo Honey Singh",
+        "description": "Top trending & comeback of Yo Yo.",
+        "cover": "img/yo.jpg",
+        "songs": [
+            {
+                "name": "Sample Song 2",
+                "artist": "Arijit Singh",
+                "url": ""
             }
         ]
     }

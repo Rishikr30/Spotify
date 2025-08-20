@@ -30,11 +30,6 @@ body {
     position: relative;
 }
 
-/* 
-.home{
-    padding: 10px;
-} */
-
 .home ul li {
     display: flex;
     gap: 15px;
@@ -200,9 +195,6 @@ body {
     width: 90%;
     padding: 12px;
     width: 70vw;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 }
 
 .songbuttons {
@@ -350,6 +342,7 @@ body {
 
     .right {
         width: 100vw;
+         margin: 0;
     }
 
     .timevol {
@@ -380,10 +373,6 @@ body {
         display: block;
     }
 
-    .right {
-        margin: 0;
-    }
-
     .card {
         width: 44vw;
     }
@@ -391,6 +380,9 @@ body {
     .cardContainer {
         margin: 0;
         justify-content: center;
+        max-height: unset;
+        overflow: unset;
+        margin-bottom: 30vh;
     }
 
     .close {
@@ -401,12 +393,6 @@ body {
         flex-direction: column;
         gap: 23px;
         align-items: center;
-    }
-
-    .cardContainer {
-        max-height: unset;
-        overflow: unset;
-        margin-bottom: 30vh;
     }
 }
 
@@ -426,8 +412,6 @@ body {
         z-index: 2000;
         overflow: hidden;
     }
-
-
 
     .header>* {
         padding: 2px;
