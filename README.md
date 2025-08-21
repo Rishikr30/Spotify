@@ -1,6 +1,6 @@
-# [Spotify - Clone](spotify-rishi.netlify.app)
+# [Spotify - Clone](https://spotify-rishi.netlify.app/)
 
-## [🎵 Music Player App](spotify-rishi.netlify.app)
+## [🎵 Music Player App](https://spotify-rishi.netlify.app/)
 A **responsive and dynamic music player** built using **HTML, CSS, and JavaScript**. This app provides a clean UI and smooth music playback experience with multiple album support and real-time controls.
 
 ---
